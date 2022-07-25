@@ -1,6 +1,7 @@
-# ParmonicInterviewAssessments
-**Find solution file inside ParmonicInterviewAssessments\UnitTesting\ParmonicInterviewAssessments.sln**
 
+#Find solution file inside ParmonicInterviewAssessments\UnitTesting\ParmonicInterviewAssessments.sln
+
+# ParmonicInterviewAssessments
 Parmonic Interview Questions
 Submit a Github public repo URL with completed assessment
 Use C#, .NET 6 for all questions. Use xUnit for tests when needed.
